@@ -1,4 +1,2 @@
-# Hello world
-
-如果这个模板有用，请点一个🌟吧！
-[Github Repo](https://github.com/Codesire-Deng/TemplateRepoCxx)
+拷贝的C++项目模板
+源项目地址：[Github Repo](https://github.com/Codesire-Deng/TemplateRepoCxx)
